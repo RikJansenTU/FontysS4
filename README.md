@@ -5,7 +5,7 @@ By Rik Jansen
 - [Personal Project](#personal-project-criticmatic)
   * [Project Details](#project-details)
   * [Evaluation](#evaluation)
-- [Duo Project](#duo-project-A.L.N.D.)
+- [Duo Project](#duo-project)
   * [Concepting](#concepting)
   * [Technical Challenges](#technical-challenges)
   * [Presentation](#presentation)
@@ -40,8 +40,8 @@ Unfortunately I was sick for almost all of the project’s duration, which meant
 Afterwards, I decided to focus on the duo project instead of trying to catch up on my personal one.
 
 
-# Duo Project: A.L.N.D.
-A.L.N.D. stands for Automatic Long distance Nut Dispenser, a useful device that ensures you never have to get up to eat cocktail nuts ever again. This device will automatically measure the distance to your mouth, and when you open your it the A.L.N.D. will shoot a nut right at you so you can keep doing what you're doing and have a snack at the same time.
+# Duo Project
+For our Duo Project, Ruben and I created the A.L.N.D.. A.L.N.D. stands for Automatic Long distance Nut Dispenser, a useful device that ensures you never have to get up to eat cocktail nuts ever again. This device will automatically measure the distance to your mouth, and when you open your it the A.L.N.D. will shoot a nut right at you so you can keep doing what you're doing and have a snack at the same time.
 
 ![ALND Instruction Men](https://user-images.githubusercontent.com/9715331/201686098-ae1538c8-7919-4174-ad34-7c680a77fb67.png)
 
@@ -83,8 +83,6 @@ Speaking for myself, I am used to creating software projects, and while there ar
 
 I do think there was a bigger hurdle in the project however, and it was one we placed in front of ourselves; the fact that we spent way too much time trying to get the automatic firing mechanism working. It's something we got stuck on for quite a while, and we didn't even end up solving the problem.
 Instead, we could've started working on other aspects, like adding a camera to the A.L.N.D. and setting up automatic face detection; even if there was no working mechanism to control, it could still measure distances or detect a mouth opening, adding some much-needed tech to our project.
-I realise I do this in a lot of my projects, either for study or personal, so I think the lesson of sometimes needing to take a step back and get a better overview of what you're doing, and maybe look at a problem from a different angle, is a very valuable one, and something I'll definitely try to take with me in future projects.
+I realise I do this getting lost in details in a lot of my projects, either for study or personal, so I think the lesson of sometimes needing to take a step back and get a better overview of what you're doing, and maybe look at a problem from a different angle, is a very valuable one, and something I'll definitely try to take with me in future projects.
 
-Better at estimating project length, used to software
-Wider focus, dont get dragged down by single feature not working
-Can sell much with a good presentation, media side ive never done but learned a lot about
+I did really enjoy the presentation aspect of the project - I'd never really tackled a 'marketing' challenge like this one, and really enjoyed thinking about ways to sell our product, while still keeping in mind the satirical aspect. In this way, I do think we achieved at least part of our impact - while the end product wasn't automatic in any way, it did function well enough to set up a demo and convey our intended message. I learned that a well-made presentation can do a lot to sell a project, and I'm excited to explore the 'media' side of technology more in the future.
