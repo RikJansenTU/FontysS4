@@ -12,19 +12,20 @@ To do this, we want to create a place where employees can go to find inspiration
 Much of our early work was based on casting a wide net around the subject of generative AI. While I knew about it and had been following its progress, none of our group had worked with the technology before, so much of our early reading was into what generative AI can do and how we could potentially use it.
 We also tried to consider the future - where would AI be headed, and how could we prepare for that. In the end, we discovered that AI is very good at generating images, text, and to a lesser extend music and sound, but as of right now there is no AI capable of automatically combining those. This served our purposes well enough however, as we could manually generate and combine the different elements.
 
-[AI Directions]()
+![AI Directions]()
 
 I also researched training our own custom image model; this could potentially be very powerful, because we would have a lot more control over what our output would be, but this proved more difficult than I'd hoped. Model training is definitely more accessible than it used to be, but is still a significant challenge, and unfortunately outside of the scope of this project. Besides, when it comes to inspiring people having a very large range of potential output isn't necessarily a disadvantage.
 
 During all this, we also spent time brainstorming about what we wanted to actually accomplish with the generative AI. Initially we were looking at the assignment from a lot of different angles - directly generating personalised advertising, prototyping, even collaborative art projects - but eventually settled on our current course, trying to empower Greenhouse employees.
 
-[Heart vs Mind]()
+![Heart vs Mind]()
 
 To help shape our ideas, we performed our first user tests, investigating whether or not people were able to distinguish AI generated and human art, and whether or not it could influence their emotions.
 
 We also built our first prototype, a model of the room out of wood - this wasn't meant to be an exact model of what the end result would look like, but more to visualise our intentions, for which I think it served our purposes quite well.
 
-[First prototype]()
+![Room Prototype](https://user-images.githubusercontent.com/9715331/208252726-ebe8cb02-339e-47b4-bf88-9f0d01fa54b3.png)
+_The room prototype_
 
 ### Sprint 2: Research, First Software Prototype, and Adjustments
 We had honed in on what we wanted to do, but before we could truly start working on our first prototype we needed to do a lot more research. This round was much more focused: we had decided we wanted to empower Greenhouse employees, so we needed to investigate how best to do that, which we did in three ways.
@@ -33,6 +34,12 @@ First, we held interviews with Greenhouse employees. We set up interviews and cr
 
 We also performed user tests to test the exact emotional impact AI generated images could have. This test was even more successful than expected, showing that it was absolutely a possibility, but there are still challenges when it comes to this angle. First, figuring out exactly what emotions would have a positive impact on creativity and productivity will probably require deeper research, and second, having an AI generate images that specifically evoke those emotions could prove quite difficult, since simply asking it to generate something 'happy' does not work.
 
+![Creativity User Testing](https://user-images.githubusercontent.com/9715331/208252819-58bb1129-13d4-47db-a09d-72c5bfbae7ca.jpg)
+_The creativity user test_
+
 I personally headed a user test into if, and how exactly, we could positively influence people's creativity with AI art. For me this was an incredibly important question to answer, because the results would largely determine what exact prompts we would use to generate our images. The results were very positive, and gave us a lot to work with: based on the results I plan to implement adjustments in art style, and try to generate a wider array of images closely related to users' initial prompt. For a full research report including results see [Creativity Research](Research/Creativity%20Research.md), and for an evaluation of the results and how exactly we plan to use them to adjust our prototype see [Evaluation](Research/Evaluation.md).
 
 We also set up our very first prototype using React. Luckily, there were a host of publicly available speech-to-text libraries, which meant setting up the basics was very easy. This gave us the opportunity to create a foundation for future improvements, and investigate the specifics of the DALL-E API.
+
+![Prototype Gif](https://user-images.githubusercontent.com/9715331/208179089-80004b7b-3c19-47ed-8b29-12215d0bf62b.gif)
+_First software prototype with an updated UI_
