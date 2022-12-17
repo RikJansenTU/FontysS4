@@ -1,11 +1,5 @@
 # Research - Using AI Generated Content to Increase Creativity
-
-## Introduction and Research Goals 
-
 The goal of this user research is twofold: first, to prove that AI generated imagery and sound are capable of inspiring people and bringing them to new ideas. Second, to investigate what type of imagery and sound exactly is the most effective at inspiring people and bringing them to new ideas. 
-
-AI Generated Rocket
-An AI generated image of a rocket blasting of to space, 'painted' in a watercolor style 
 
 ## Methodology 
 
