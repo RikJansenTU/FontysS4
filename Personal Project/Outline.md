@@ -23,3 +23,6 @@ The Arduino has a microphone, activated by pressing a button, linked to a PC wit
     Groundbreaking
     Simplistic
     Amateurish
+
+### Technology
+While I wasn't able to implement much on the hardware side, I did investigate and prototype on the software side. Much of my eary forays were into speech-to-text, which proved remarkably easy to implement with publicly available libraries. A lot of my other prototyping regarded the 'algorithm' that would evaluate the resulting text, and somehow make meaningful statements about it. This is obviously nearly impossible, but I did implement small things like recognising specific words, or checking how often words were used in the English language. Actually extracting meaning from the text is much more difficult, and I looked into options for achieving this at a basic level (a lot of the research involved AI interpretation), but never managed to actually get anything working.
