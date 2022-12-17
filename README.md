@@ -1,6 +1,94 @@
 # Fontys S4 Portfolio
 By Rik Jansen
 
+# Quick Project Outlines
+
+### Personal Project: Criticmatic
+A device that uses speech-to-text to evaluate a piece of literature based on a couple of read sentences.
+
+For more details, see the [Outline](/Personal%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Personal%20Project/Evaluation.md)
+
+### Duo Project: A.L.N.D.
+A device that automatically shoots cocktail nuts into your mouth, saving you the trouble of grabbing them yourself.
+
+For more details, see the [Outline](/Duo%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Duo%20Project/Evaluation.md)
+
+### Client Project: Greenhouse Generative AI Inspiration Room
+A room that uses AI generated imagery and sound to empower and inspire imployees of Greenhouse, making them more productive and bringing them to new ideas.
+
+
+# Learning Outcomes
+
+### 1. Vision
+> You express your own vision on future scenarios through research of the evolution of mankind’s relationship with technology.
+
+**Duo Project**
+
+The A.L.N.D. was an attempt to highlight the way state-of-the-art technology is used in increasingly useless or niche ways. For more info on how we attempted to express this see [Presentation](/Duo%20Project/Presentation.md).
+
+**Client Project**
+
+(Generative) AI is something I feel very strongly about, both positively and negatively, and I wrote an [essay](/Client%20Project/Vision%20Essay.md) on how I envision AI impacting our society in the future, its potential risks, and how I try to keep that in mind during the project. We also had a discussion with the group where everyone outlined their personal view on the technology.
+
+Based on my views, I try to ensure that the focus of our project is fully on assisting and empowering the Greenhouse employees in any way we can, instead of replacing them.
+
+
+### 2. Innovative concept
+> You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
+
+**Solo Project**
+
+While it unfortunately never resulted in a functional prototype, I did do extensive research on the technical challenges of this project. Speech-to-text proved an easier challenge than expected, even though I never worked with it before. However, trying to interpret that text in a meaningful way was much more difficult - I could judge words based on how often they appeared in the English language, but attempting to judge an entire sentence was much harder, and resulted in a lot of reading on text interpretation, mostly involving AI.
+
+**Duo Project**
+
+We started this project with an idea for a point we wanted to make, but no specifics in mind, which is why we spent the first week brainstorming and coming up with concepts that could best convey that point. During this project I was less focused on technical research, and more on the human aspect; specifically, how we could best trigger them and get them to think about what we're trying to convey. I looked into other satirical uses of technology, as well as presentation techniques.
+
+**Client Project**
+
+The fact that we didn't receive a clear assignment from Greenhouse was a little bit daunting, but also exciting. Like with the duo project, a lot of the first week was spent brainstorming and coming up with ideas. We started out with general research of what generative AI is and what it can do, and slowly started to narrow down our search, focusing on how we could use it to help Greenhouse. This initial ideation was largely focused on the human side of things; our priority was creating something that genuinely helped Greenhouse employees and corresponded to what they needed, and I believe thanks to that approach we came up with something that genuinely hasn't been done before.
+
+During the project, I also got more and more interested in the societal, cultural, and ethical impact generative AI can have, doing a lot of research into the matter, and writing the aforementioned [essay](/Client%20Project/Vision%20Essay.md)
+
+Learning outcome 3. Interactive user experience
+
+You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
+
+        Design = create an iteratively improved visual overview of the concept’s physical and technological variables based on a predetermined effect or goal, i.e., (animated) 2D/3D- renders, (moving) storyboards, concept video, lo-fi prototypes, technical drawings, architecture diagram. Designs are frequently iterated upon, based on proactively acquired feedback.
+        Interactive user experience = an installation or media product which can be experienced physically, i.e., appealing to multiple senses."
+
+ 
+
+Learning outcome 4. Prototypes
+
+You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
+
+        Realize = combine hardware and software based on functional and user requirements, i.e., using appropriate sensors, actuators, logic components, computing platform, protocols, software libraries, etc. resulting in your own software running on your own hardware setup
+        Series of prototypes = a number of iteratively improved prototypes, from low towards high fidelity. Iterations are substantiated from acquired feedback.
+        Test = check whether a prototype achieves the intended effects, both from a user’s, a stakeholder’s and a technical perspective, using appropriate methods, like usability tests and unit tests, and iterating on test results and feedback.
+
+ 
+
+Learning outcome 5. Present
+
+You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
+
+        Present = showing a visually appealing summary of your work, i.e., in an exhibition and/or showcase portfolio
+        Research outcomes = consolidated experiments and their results, i.e., in a video, poster presentation, essay and/or 2-page-paper
+        Reflections = review of your own experience of and development during the semester, both from a personal and professional point of view
+
+ 
+
+### 6. Personal Growth
+
+> You articulate your professional ambitions and focus and demonstrate your efforts and growth within the roles you fulfil in your projects.
+
+I go over this in [Personal Growth & Challenges](/General/Personal%20Growth%20and%20Challenges.md)
+
+
+
+
+
 # Table of Contents
 - [Personal Project](#personal-project-criticmatic)
   * [Project Details](#project-details)
@@ -11,78 +99,3 @@ By Rik Jansen
   * [Presentation](#presentation)
   * [Evaluation](#evaluation)
   
-# Personal Project: Criticmatic
-Most of us find it hard to make time in our busy schedules to read, so when we finally get around to opening the book that’s been gathering dust on our shelf it’s important to make sure we’re reading something worthwhile; you don’t want to spend hours reading some worthless drivel, but you want something that you can use to impress on your friends how well-read and sophisticated you are.
-
-Finding something with literary value can be difficult however: if you walk into your local bookstore it’s easy to get overwhelmed by the vast quantity of reading material available, and separating the wheat from the chaff can be an impossible task. Sure, many books have reviews, but those are often lengthy themselves. I offer an alternative: a simple device that can determine whether or not a book will be worth your time based on only a couple of sentences. Simply pick a book, dictate a few lines, and you will immediately be notified of the work’s most important characteristics.
-
-With this revolutionary technology, you’ll be able to contribute to any conversation your pretentious friends are having, while still having plenty of time to catch up on your favorite Netflix series.
-## Project Details
-Criticmatic is a device that rates literature based on a few sentences: you dictate them into a microphone, the device will evaluate them using speech-to-text, and return a verdict by lighting up one (or several) LED lights corresponding to a variety of characteristics, like ‘derivative’ or ‘worthwhile’.
-
-Obviously it’s impossible to evaluate the value of a piece of literature based on a couple of sentences, let alone using software. The project is intended as satire, attempting to highlight the futility of trying to rate a piece of art, especially with something as reliant on personal experience as reading books.
-
-This is the postcard based on the Criticmatic concept:
-
-![Postcard.png](https://user-images.githubusercontent.com/9715331/201684174-067d69df-b298-4c7c-9196-b3629fabf228.png)
-
-The Arduino has a microphone, activated by pressing a button, linked to a PC with a small speech recognition program, which will evaluate the resulting text on arbitrary parameters like average word length, alliteration, usage of specific words, and others. Based on those parameters it will light up a LED light corresponding to one or more of the following terms:
-
-- Derivative
-- Worthwhile
-- Groundbreaking
-- Simplistic
-- Amateurish
-
-## Evaluation
-Unfortunately I was sick for almost all of the project’s duration, which meant I was unable to get much further than the concept stage. I was able to do research into the technology that would be required, mostly the speech recognition software, but couldn’t implement much of it. I did however, work out as much of the concept and its intended impact, satirical as it may be, as I could.
-
-Afterwards, I decided to focus on the duo project instead of trying to catch up on my personal one.
-
-
-# Duo Project
-For our Duo Project, Ruben and I created the A.L.N.D.. A.L.N.D. stands for Automatic Long distance Nut Dispenser, a useful device that ensures you never have to get up to eat cocktail nuts ever again. This device will automatically measure the distance to your mouth, and when you open your it the A.L.N.D. will shoot a nut right at you so you can keep doing what you're doing and have a snack at the same time.
-
-![ALND Instruction Men](https://user-images.githubusercontent.com/9715331/201686098-ae1538c8-7919-4174-ad34-7c680a77fb67.png)
-
-## Concepting
-We didn’t go into the project with a clear concept of what we wanted to do, so we spent much of the first week coming up with potential ideas. We weren’t looking to create something inherently useful, but instead wanted to create a seemingly useless device that would make people think about some aspect of their lives, akin to an art project. We tried not to get too constricted in technical details immediately, instead throwing out ideas we thought were fun, and worrying about their practical implementation later.
-
-Some of the ideas we ended up rejecting were:
-
-- A device to forcibly remove you from your bed in the morning
-- A staircase that could turn into a slide automatically
-- A robot that allows you to practice your dating skills
-- A drone that follows you around and streams your activities 24/7
-
-Eventually we chose the ALND due to the manageable size of the project, and the fact that it made a funny point about the way advanced technology is being used for more and more mundane tasks, slowly creating a world where we have to do less and less ourselves.
-
-## Technical Challenges
-We decided to quickly design a low-fi prototype using rubber bands - we were pretty sure rubber bands would not be used in a final product, but it did allow us to create something that could fire cocktail nuts (albeit inaccurately) and show off our concept. This prototype highlighted initial design flaws and served as a catalyst for new ideas, for example when it came to the shape of the device's 'barrel'.
-
-After an adjusted rubber band-based prototype, we moved on to a spring launching mechanism, which would allow for much greater firing consistency and accuracy. This is where we really started to attempt to dig into the automatic firing mechanism - it would need to be able to pull back the spring a specific amount, and then immediately release it, reloading afterwards. This proved to be a much greater challenge than expected, and while we did do a lot of research into similar devices, we never managed to get a working prototype built.
-
-![All of the prototypes](https://user-images.githubusercontent.com/9715331/201690742-2c0c27a6-0902-40de-b9d3-4efbb83db8cd.jpg)
-
-## Presentation
-When we showed our very first prototype, feedback indicated that the satirical nature of the project wasn’t clear, and instead it seemed like our only end goal was to make a functional cocktail nut launcher.
-
-For our final presentation, we wanted to ensure people understood our intentions better, and hopefully make them think about the increasingly large role of technology in our lives. We decided to pretend to ‘sell’ our product, marketing it as a must-have and a truly great use of modern science. We very quickly landed on framing it as an 80s-style Telsel commercial, known for its enthusiastic overselling of incredibly niche or nearly useless items.
-
-We created an advertising poster in this same style, exaggerating the product’s features and framing it as a must-have item, and gave a sales pitch trying to convince the audience to purchase it. We had to make sure to strike a balance between making it straight-faced, but ridiculous enough that people would be able to understand the underlying meaning.
-
-Alongside we set up a demo overselling the complexity of grabbing a cocktail nut for yourself, and offering the A.L.N.D. as a superior alternative, both to mimic the demonstrations often given on Telsel commercials and to make the presentation more hands-on and enjoyable. 
-
-Overall, the presentation seemed to have its intended effect; while it might have been a bit on the nose at times, people understood that the project was intended as satire, and the subsequent discussions weren’t about our own device as much as the increasingly minor ‘problems’ in our lives we try to solve with gadgets.
-
-![ALND A3 Poster](https://user-images.githubusercontent.com/9715331/201691189-b2fad071-0c97-4875-a5a9-f79a91742491.png)
-
-## Evaluation
-Unfortunately, I don't think the end result of the project was quite as advanced as we hoped or planned it to be. I think this can mainly be contributed to two factors: my inexperience handling projects like these, and our excessive focus on the firing mechanism.
-Speaking for myself, I am used to creating software projects, and while there are definitely similarities, the fact that the A.L.N.D. had much more hardware engineering involved made it much more difficult to get a grasp on. Problems that I thought would be easy to solve turned out to be much bigger stumbling blocks than expected, and required a lot of research - this was most apparent in the firing mechanism, which took up a lot of our time and energy to try and develop.
-
-I do think there was a bigger hurdle in the project however, and it was one we placed in front of ourselves; the fact that we spent way too much time trying to get the automatic firing mechanism working. It's something we got stuck on for quite a while, and we didn't even end up solving the problem.
-Instead, we could've started working on other aspects, like adding a camera to the A.L.N.D. and setting up automatic face detection; even if there was no working mechanism to control, it could still measure distances or detect a mouth opening, adding some much-needed tech to our project.
-I realise I do this getting lost in details in a lot of my projects, either for study or personal, so I think the lesson of sometimes needing to take a step back and get a better overview of what you're doing, and maybe look at a problem from a different angle, is a very valuable one, and something I'll definitely try to take with me in future projects.
-
-I did really enjoy the presentation aspect of the project - I'd never really tackled a 'marketing' challenge like this one, and really enjoyed thinking about ways to sell our product, while still keeping in mind the satirical aspect. In this way, I do think we achieved at least part of our impact - while the end product wasn't automatic in any way, it did function well enough to set up a demo and convey our intended message. I learned that a well-made presentation can do a lot to sell a project, and I'm excited to explore the 'media' side of technology more in the future.
