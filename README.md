@@ -1,6 +1,16 @@
 # Fontys S4 Portfolio
 By Rik Jansen
 
+
+# Table of Contents
+- [Quick Project Outlines](#quick-project-outlines)
+- [Learning Outcomes](#learning-outcomes)
+  * [Vision](#Vision)
+  * [Technical Challenges](#technical-challenges)
+  * [Presentation](#presentation)
+  * [Evaluation](#evaluation)
+  
+
 # Quick Project Outlines
 
 ### Personal Project: Criticmatic
@@ -36,7 +46,7 @@ Based on my views, I try to ensure that the focus of our project is fully on ass
 ### 2. Innovative concept
 > You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
 
-**Solo Project**
+**Personal Project**
 
 While it unfortunately never resulted in a functional prototype, I did do extensive research on the technical challenges of this project. Speech-to-text proved an easier challenge than expected, even though I never worked with it before. However, trying to interpret that text in a meaningful way was much more difficult - I could judge words based on how often they appeared in the English language, but attempting to judge an entire sentence was much harder, and resulted in a lot of reading on text interpretation, mostly involving AI.
 
@@ -48,35 +58,60 @@ We started this project with an idea for a point we wanted to make, but no speci
 
 The fact that we didn't receive a clear assignment from Greenhouse was a little bit daunting, but also exciting. Like with the duo project, a lot of the first week was spent brainstorming and coming up with ideas. We started out with general research of what generative AI is and what it can do, and slowly started to narrow down our search, focusing on how we could use it to help Greenhouse. This initial ideation was largely focused on the human side of things; our priority was creating something that genuinely helped Greenhouse employees and corresponded to what they needed, and I believe thanks to that approach we came up with something that genuinely hasn't been done before.
 
-During the project, I also got more and more interested in the societal, cultural, and ethical impact generative AI can have, doing a lot of research into the matter, and writing the aforementioned [essay](/Client%20Project/Vision%20Essay.md)
+During the project, I also got more and more interested in the societal, cultural, and ethical impact generative AI can have, doing a lot of research into the matter, and writing the aforementioned [essay](/Client%20Project/Vision%20Essay.md).
 
-Learning outcome 3. Interactive user experience
+We also did a lot of user research, and I personally headed the user research into how we could best inspire people, details of which can be found in [Creativity Research](/Client%20Project/Research/Creativity%Research.md)
 
-You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
+### 3. Interactive user experience
 
-        Design = create an iteratively improved visual overview of the concept’s physical and technological variables based on a predetermined effect or goal, i.e., (animated) 2D/3D- renders, (moving) storyboards, concept video, lo-fi prototypes, technical drawings, architecture diagram. Designs are frequently iterated upon, based on proactively acquired feedback.
-        Interactive user experience = an installation or media product which can be experienced physically, i.e., appealing to multiple senses."
+> You design an experimental interactive user experience that investigates a technology’s potential and its mutual effect on people.
 
+**Personal Project**
+
+I created a [postcard](/Personal&20Project/Images/Postcard.png) to show off my concept.
+
+**Duo Project**
+
+For our final presentation, based on feedback we got for our previous ones, we tried to make our demo as involved as possible, allowing people to interact with the product directly. I also created a poster where I tried to combine storyboards and 2d renders to give a good overview of our project. For more detailed info, see [Presentation](/Duo%20Project/Presentation.md).
+
+**Client Project**
+
+I am working on 'mood pieces' to show off our concept, as well as a more technical drawing.
  
 
-Learning outcome 4. Prototypes
+### 4. Prototypes
 
-You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
+> You collaboratively realize and test a series of prototypes and its potential, for both users and stakeholders, in real-world application.
 
-        Realize = combine hardware and software based on functional and user requirements, i.e., using appropriate sensors, actuators, logic components, computing platform, protocols, software libraries, etc. resulting in your own software running on your own hardware setup
-        Series of prototypes = a number of iteratively improved prototypes, from low towards high fidelity. Iterations are substantiated from acquired feedback.
-        Test = check whether a prototype achieves the intended effects, both from a user’s, a stakeholder’s and a technical perspective, using appropriate methods, like usability tests and unit tests, and iterating on test results and feedback.
+**Personal Project**
 
- 
+I coded simple prototypes to test out speech-to-text functionality, and a couple of iterations of 'algorithms' to interpret the resulting text.
 
-Learning outcome 5. Present
+**Duo Project**
 
-You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
+While the prototypes never reached the level of fidelity we were shooting for, we did create a multitide of different iterations during the project. We tested accuracy, strength, and reliability with each prototype, and based on the results adjusted our next one. We also tried to improve the visual appeal, making the final prototype more 'loveable'.
+
+**Client Project**
+
+We have performed a multitude of user tests that we are using to refine our prototype; for example, I used the data gathered from the creativity research mentioned before to adjust what images would be generated by the AI in our prototype. For more info see [Evaluation](/Client%20Project/Research/Evaluation.md)
+
+### 5. Present
+
+> You present your research outcomes, prototypes and reflections in relation to your research, concept and vision, to stakeholders, peers and potential future employers.
+
+**Duo Project**
+
+I created a poster that attempted to not only show a summary of the project, but also the underlying message we wanted to convey. For more detailed info, see [Presentation](/Duo%20Project/Presentation.md).
+
+**Client Project**
+
+We are working on a research document that consolidates all our research in a single file.
+
+For personal reflections, see the Personal Growth learning outcome below.
 
         Present = showing a visually appealing summary of your work, i.e., in an exhibition and/or showcase portfolio
         Research outcomes = consolidated experiments and their results, i.e., in a video, poster presentation, essay and/or 2-page-paper
         Reflections = review of your own experience of and development during the semester, both from a personal and professional point of view
-
  
 
 ### 6. Personal Growth
@@ -85,17 +120,3 @@ You present your research outcomes, prototypes and reflections in relation to yo
 
 I go over this in [Personal Growth & Challenges](/General/Personal%20Growth%20and%20Challenges.md)
 
-
-
-
-
-# Table of Contents
-- [Personal Project](#personal-project-criticmatic)
-  * [Project Details](#project-details)
-  * [Evaluation](#evaluation)
-- [Duo Project](#duo-project)
-  * [Concepting](#concepting)
-  * [Technical Challenges](#technical-challenges)
-  * [Presentation](#presentation)
-  * [Evaluation](#evaluation)
-  
