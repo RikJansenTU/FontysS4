@@ -14,7 +14,7 @@ Obviously it’s impossible to evaluate the value of a piece of literature based
 
 This is the postcard based on the Criticmatic concept:
 
-Postcard.png
+![Criticmatic Postcard](Images/Postcard.png)
 
 The Arduino has a microphone, activated by pressing a button, linked to a PC with a small speech recognition program, which will evaluate the resulting text on arbitrary parameters like average word length, alliteration, usage of specific words, and others. Based on those parameters it will light up a LED light corresponding to one or more of the following terms:
 
