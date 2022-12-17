@@ -1,4 +1,4 @@
-Evaluation
+# Evaluation
 
 Unfortunately, I don't think the end result of the project was quite as advanced as we hoped or planned it to be. I think this can mainly be contributed to two factors: my inexperience handling projects like these, and our excessive focus on the firing mechanism. Speaking for myself, I am used to creating software projects, and while there are definitely similarities, the fact that the A.L.N.D. had much more hardware engineering involved made it much more difficult to get a grasp on. Problems that I thought would be easy to solve turned out to be much bigger stumbling blocks than expected, and required a lot of research - this was most apparent in the firing mechanism, which took up a lot of our time and energy to try and develop.
 
