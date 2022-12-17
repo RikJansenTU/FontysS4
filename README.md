@@ -18,12 +18,12 @@ By Rik Jansen
 ## Personal Project: Criticmatic
 A device that uses speech-to-text to evaluate a piece of literature based on a couple of read sentences.
 
-For more details, see the [Outline](/Personal%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Personal%20Project/Evaluation.md)
+For more details, see the [Outline](/Personal%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Personal%20Project/Evaluation.md).
 
 ### Duo Project: A.L.N.D.
 A device that automatically shoots cocktail nuts into your mouth, saving you the trouble of grabbing them yourself.
 
-For more details, see the [Outline](/Duo%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Duo%20Project/Evaluation.md)
+For more details, see the [Outline](/Duo%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Duo%20Project/Evaluation.md).
 
 ### Client Project: Greenhouse Generative AI Inspiration Room
 A room that uses AI generated imagery and sound to empower and inspire imployees of Greenhouse, making them more productive and bringing them to new ideas.
@@ -62,7 +62,7 @@ The fact that we didn't receive a clear assignment from Greenhouse was a little 
 
 During the project, I also got more and more interested in the societal, cultural, and ethical impact generative AI can have, doing a lot of research into the matter, and writing the aforementioned [essay](/Client%20Project/Vision%20Essay.md).
 
-We also did a lot of user research, and I personally headed the user research into how we could best inspire people, details of which can be found in [Creativity Research](/Client%20Project/Research/Creativity%Research.md)
+We also did a lot of user research, and I personally headed the user research into how we could best inspire people, details of which can be found in [Creativity Research](/Client%20Project/Research/Creativity%Research.md).
 
 ## 3. Interactive User Experience
 
