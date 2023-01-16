@@ -10,15 +10,11 @@ If we had more time, we definitely could have kept expanding; I think one of the
 
 ### What I Learned
 
-Something which I had been struggling with the entire semester finally clicked for me during this project, and that was a fundementally different way of approaching projects. In all my previous semesters, the projects were much more defined by the clients. Even when I didn't get a specific assignment, it wasn't really about the impact of a project, but more about what technical skills I could learn from it. While 
+Something which I had been struggling with the entire semester finally clicked for me during this project, and that was a fundementally different way of approaching projects. In all my previous semesters, the projects were much more defined by the clients. Even when I didn't get a specific assignment, it wasn't really about the impact of a project, but more about what technical skills I could learn from it. Switching to something more concept-based was definitely a challenge.
 
-I tend to have a very chaotic way of working and often struggle to keep an overview of what I'm doing, so fundementally switching up the way I approach a problem was maybe more difficult for me than it would be for most. I've always enjoyed coming up with creative ideas, but translating those into a functioning application was more difficult. While I do think I made some steps in learning this in my personal and duo projects, it really clicked for me with this one - going from vague ideas to concepts, using that to set up user research, and finally using the results to adjust our application.
+I tend to have a very chaotic way of working and often struggle to keep an overview of what I'm doing, so switching up the way I approach a problem was maybe more difficult for me than it would be for most. I've always enjoyed coming up with creative ideas, but translating those into a functioning application was more difficult. While I do think I made some steps in learning this in my personal and duo projects, it really clicked for me with this one - going from vague ideas to concepts, using that to set up user research, and finally using the results to adjust our application.
 
-Fun to start at a different end, not getting a defined assigment
-Learned about different approaches to project
-  Research, user based
-Working with AI was fun, going to do something similar in my internship, things I learned will be very useful there
-
+During my internship I am once again going to be working with generative AI, which is exciting. My way of working will also be very similar to this project's, so I'm very excited to continue down this path, and use what I learned during this project as a stepping stone to continue to grow in this direction.
 
 ### The Group
 
