@@ -13,8 +13,9 @@ Technology and creativity had always been largely separate entities in my head, 
 
 
 ### Figuring Out What I Want To Do
-Combining creativity with technology
-Ongoing journey but at least much more excited for the future
+This goal kind of goes hand in hand with the previous, but is more aimed at the future. Like I said, I have always been interested in computer science, but half a year ago I just couldn't see myself being excited for any job within the field. I didn't really see how I could get enough creative room while still working as a software engineer, but this semester gave me much more perspective - I never even heard the term creative technologist before starting this specialisation.
+
+Most of this goal was accomplished through my search for an internship, which might be cheating slightly. However, now that I had a starting point and a vague idea of what a creative technology career might look like, I was able to find quite a few companies whose work genuinely excited me. Once again, looking for the right career will probably be something I spend many more years doing, but at the very least I now have a starting point, and in February I'll be starting a creative technology internship that I'm very enthusiastic about.
 
 ### Finding a Way to Work With My Limitations
 Chaotic, forcing myself to be orderly
@@ -22,11 +23,13 @@ Better to pick and choose, bring order to the chaos where needed but embrace it 
 
 ### Experimenting with New Approaches to IT Projects
 More conceptual, research based, instead of just technology, more room for creativity
+Personal project was really fun, being able to just come up with an idea
 
 ## Challenges
 
 Generally being a bit overwhelmed, uncertain, still dealing with some mental hangups
   Not prepared for things not going well
+  Trying to go a bit too fast, saying yes to too many things, working too much
   
 Initially a difficult semester to get into, results harder to quantify
   
