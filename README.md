@@ -91,7 +91,7 @@ I coded simple prototypes to test out speech-to-text functionality, and a couple
 
 **Duo Project**
 
-While the prototypes never reached the level of fidelity we were shooting for, we did create a multitide of different iterations during the project. We tested accuracy, strength, and reliability with each prototype, and based on the results adjusted our next one. We also tried to improve the visual appeal, making the final prototype more 'loveable'.
+While the prototypes never reached the level of fidelity we were shooting for, we did create a multitide of different iterations during the project. We tested accuracy, strength, and reliability with each prototype, and based on the results adjusted our next one. Actually being able to hit the same target reliably was one of the most important things to face, which is why a lot of our testing (and subsequent prototyping) was focused on that. We also tried to improve the visual appeal, making the final prototype more 'loveable'.
 
 **Client Project**
 
