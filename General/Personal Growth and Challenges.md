@@ -8,7 +8,9 @@ Boiling it down, these are some of the main personal goals I wanted to achieve t
 
 This goal might seem a bit obvious for a Creative Technology semester, but it was probably the most important issue I wanted to address. A couple of years ago, I started writing and drawing, and it's something I have gotten very passionate about. While I've always been interested in technology, and especially computer science, I didn't really feel this same passion for it. Figuring out a way to overcome a technical obstacle is fun, but just getting a standard assignment didn't make me feel like I could express myself through my work. I recognise that a hobby is probably always going to be more fun than an education or job, but I feel like this creative energy is important enough to me that I'd want to be able to channel some of it into the thing I'll be spending most of my life working with.
 
-Like technology, but doesn't feel like a passion like drawing etc does, would like to find something that I actually feel passionate about
+The semester definitely gave me some new outlooks on how the field computer science could be approached, and although ironically this differing approach initially made me struggle, I feel like it eventually 'clicked' for me. I don't think I've ever felt as inspired and excited by an assignment as I did with the client project, looking at a problem at a much more conceptual level and using that as a foundation instead of starting out with the technical side.
+Technology and creativity had always been largely separate entities in my head, and over the course of the semester I think I learned how to start to combine them. This is definitely an ongoing journey, but I think I've been given some really great tools to continue down this path and continue my development within creative technology.
+
 
 ### Figuring Out What I Want To Do
 Combining creativity with technology
