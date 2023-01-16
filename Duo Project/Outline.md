@@ -24,3 +24,11 @@ We decided to quickly design a low-fi prototype using rubber bands - we were pre
 After an adjusted rubber band-based prototype, we moved on to a spring launching mechanism, which would allow for much greater firing consistency and accuracy. This is where we really started to attempt to dig into the automatic firing mechanism - it would need to be able to pull back the spring a specific amount, and then immediately release it, reloading afterwards. This proved to be a much greater challenge than expected, and while we did do a lot of research into similar devices, we never managed to get a working prototype built.
 
 ![All of the prototypes](Images/ALND_Prototypes.jpg)
+
+## Design Iteration
+
+Aside from the firing mechanism, we also spent a lot of time reworking the general shape of the device. The very first never managed to properly launch anything, but after that we set up some tests to measure how accurate and reliable the device was.
+
+![Accuracy Testing](Images/ALND_Testing_Gif.gif)
+
+Based on the results of these tests, we decided to add a stand so we could more reliably launch from the exact same space, increasing our chances of landing where we wanted, as well as creating a 'locking' mechanism to the spring, so we could always pull it back the exact same distance.
