@@ -43,3 +43,12 @@ We also set up our very first prototype using React. Luckily, there were a host 
 
 ![Prototype Gif](https://user-images.githubusercontent.com/9715331/208179089-80004b7b-3c19-47ed-8b29-12215d0bf62b.gif)
 _First software prototype with an updated UI_
+
+### Sprint 3: Technical Additions and Final Presentation
+We had a lot of research results to build off of during this sprint, so our first priority was figuring out how we were going to use those to improve our prototype. 
+
+We also did some general work on the protoype, updating the UI and generally making it look more presentable.
+
+Since our final presentation was coming up, we needed to start setting up the physical room.
+
+I personally looked into ways to 'evolve' the image results - my hope was that once the images were generated users could make additions or changes to them, or generate more images that would be seamlessly added to the previous result. This would create some sort of mindmap, a slowly expanding canvas chronologuing the users' creative story. Unfortunately, this proved challenging; to properly execute this idea, you needed to draw 'masks' on the images, to indicate what parts needed to remain and what parts could be replaced. This would've been doable if we had a touchscreen or mouse in the room, but implementing this in a way that would be voice-activated would take much more time and work than we had available.
