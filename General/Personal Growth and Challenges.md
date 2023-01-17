@@ -17,27 +17,39 @@ This goal kind of goes hand in hand with the previous, but is more aimed at the 
 
 Most of this goal was accomplished through my search for an internship, which might be cheating slightly. However, now that I had a starting point and a vague idea of what a creative technology career might look like, I was able to find quite a few companies whose work genuinely excited me. Once again, looking for the right career will probably be something I spend many more years doing, but at the very least I now have a starting point, and in February I'll be starting a creative technology internship that I'm very enthusiastic about.
 
-### Finding a Way to Work With My Limitations
-Chaotic, forcing myself to be orderly
-Better to pick and choose, bring order to the chaos where needed but embrace it in other aspects
 
 ### Experimenting with New Approaches to IT Projects
-More conceptual, research based, instead of just technology, more room for creativity
-Personal project was really fun, being able to just come up with an idea
+
+This is a goal that arose during the course of the semester, once I realised I couldn't simply start programming the way I usually did. 
+
+I'd always enjoyed conceptualising, but actually using it as the base of a project was relatively new. I think the point where it really clicked for me was during the client project, where I headed the user research on creativity. The test had basically nothing to do with computer science, but it was very enjoyable to go from our concept to something that could be tested. Setting up the test brought some new challenges, and once we got the results, figuring out how we could use them to improve our prototype made me much more enthusiastic about the eventual technical implimentation as well.
+
+During my internship I'll have a similar vaguely defined assignment, and I'm really excited to keep working in this manner, and I think everything I learned during this semester will be a great stepping stone.
+
+### Finding a Way to Work With My Limitations
+
+I tend to be incredibly chaotic, in part thanks to my ADHD, which can be a major challenge when working on a large project. I work best when I can just dive into something, but that brings the risk of losing sight of the big picture. I'm very bad at keeping track of all the puzzle pieces involved, and this chaos can sometimes be so overwhelming that I find it difficult to get started on anything at all. I have tried meticulously planning and organising every part of a project, but this just exhausted me more than it helped me. 
+I also realised that this chaos can sometimes be a useful tool. It can help me look at problems from creative angles, and come up with ideas other people might not.
+
+This goal is something I've been working on since I started studying, but I definitely made some progress during this semester. Having something that can tracks progress without going into too much detail, like a Trello board, helps me to not lose track of a project. I started keeping simple to do lists (although I still frequently forget to add items to them) that make sure I don't forget any important tasks.
+Working in a group definitely helps: it allows me to focus on a single ball for a while instead of having to juggle ten. Discussing general progress with others is also very useful to get a bit more of oversight.
+
+Lastly, although I'm still not entirely happy with our duo project, I think I did learn an incredibly important lesson on sometimes taking a step back to take a look at what you're doing, and evaluate whether or not a different focus might be more fruitful.
 
 ## Challenges
 
-Generally being a bit overwhelmed, uncertain, still dealing with some mental hangups
-  Not prepared for things not going well
-  Trying to go a bit too fast, saying yes to too many things, working too much
-  
-Initially a difficult semester to get into, results harder to quantify
-  
-Doubting if this was even what I wanted to do, re examine if this is really where my passion lies or if I'm just doing this because I don't know anything else
+There were definitely some challenging (personal) moments during this semester, and unfortunately those did get in the way of my personal development at a few points.
+
+I think I didn't go into this semester in a great state - I didn't get all that much rest during the summer holiday, and was generally stressed, on top of which I got sick very early on. These issues got exacerbated by the fact that I simply had too much on my plate; I was working quite a lot, have a fairly busy social life, and I've always been very bad at saying no to things, even if I don't have the energy to do them. as well as maybe having to do some studying every once in a while. I was also doubting whether or not studying computer science was even what I really wanted, or if it was just the default choice I was sticking to.
+
+Like I mentioned before, I initially found Creative Technology difficult to get into, as it required a bit of a mental switch that I perhaps wasn't quite prepared for. The fact that this specialisation isn't as focused on technical results made it much harder for me to gauge my progress, which brought a lot of self-doubt.
+
+All of this accumulated during the first sprint of the client project, where I just felt completely overwhelmed and exhausted. It took me two weeks to get myself back on track, but I did (hopefully) learn some lessons. I've tried to reprioritise, working less, taking some more time for myself and the things that actually give me energy, and focusing on this semester.
+
+Perhaps finding a way to better balance out the things I want to do in life is a hidden additonal personal goal, because this wasn't the first time I faced these issues and will most likely be something I struggle with in the future. I do think taking a step back helped me get back to work, and I hope I managed to make the most of the last couple of months.
 
 ## Looking Back (and Forward)
 
-Thanks to the group being able to get back in - struggle with asking feedback when things aren't going well so having a comfortable place helped
+I'm incredibly grateful to my client project group, and I think they were one of the most important factors in getting me back on track during this semester. I really struggle with letting others know when I'm not doing well, or asking for help, so having a comfortable group that I could get back to and contribute to helped immensely.
 
-Much more comfortable at the end of the project, maybe didn't learn as many technical skills as I hoped but those aren't really that important, really feel like I learned a new way of looking at this field which will prove much more valuable
-Looking forward to internship, which has a very similar setup to this semester, applying those same skills I learned here
+Whether or not those contributions end up being enough to pass the semester, I do feel a lot better having arrived at the end. I enjoyed working on the client project immensely, and while I didn't learn as many technical skills as I'd expected, I do think I have started looking at computer science in a very different light, something that might be way more valuable. I'm looking forward to my internship, I feel a lot more certain that computer science is what I want to do with my life, and I'm excited to keep exploring creative technology.
