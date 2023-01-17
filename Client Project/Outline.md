@@ -54,5 +54,9 @@ _Three images, all based on the prompt 'A group of dogs sitting around a table p
 I personally looked into ways to 'evolve' the image results - my hope was that once the images were generated users could make additions or changes to them, or generate more images that would be seamlessly added to the previous result. This would create some sort of mindmap, a slowly expanding canvas chronologuing the users' creative story. Most importantly, I had also hoped this would make the room more collaborative. From the interviews we held with Greenhouse employees we concluded that they almost always worked in groups, and I wanted to find a way to accomodate this with the prototype. This way, one person could give the first prompt, and others could adjust and contribute to it afterwards. 
 Unfortunately, this proved challenging; to properly execute this idea, you needed to draw 'masks' on the images, to indicate what parts needed to remain and what parts could be replaced. This would've been doable if we had a touchscreen or mouse in the room, but implementing this in a way that would be voice-activated would take much more time and work than we had available.
 
+![In- and Outpainting Progress](Images/In_and_Outpainting.gif)
+
+_Step-by-step process showing the painting of a mask on a generated image, generating something inside that mask through inpainting, and finally extending the image through outpainting._
+
 We also did some general work on the protoype, updating the UI and generally making it look more presentable.
 Since our final presentation was coming up, we needed to start setting up the physical room. We set up the UX lab to serve our purposes, and spent much of the final week making sure everyone was functioning for our demo. We had to ensure our microphone was properly placed, working, and didn't pick up any background noise. We also set up our prototype to work with the projectors and show a different image on each wall.
