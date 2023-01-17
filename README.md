@@ -27,7 +27,9 @@ For more details, see the [Outline](/Duo%20Project/Outline.md), and for an evalu
 
 ### Client Project: Greenhouse Generative AI Inspiration Room
 A room that uses AI generated imagery and sound to empower and inspire imployees of Greenhouse, making them more productive and bringing them to new ideas.
-For more details, see the [Outline](/Client%20Project/Outline.md).
+For more details, see the [Outline](/Client%20Project/Outline.md), and for an evaluation of the project, see [Evaluation](/Client%20Project/Evaluation.md)
+
+The Github page of the project can be found [here](https://github.com/Creative-Technology-S4/Client-Project).
 
 # Learning Outcomes
 
