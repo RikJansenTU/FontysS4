@@ -1,6 +1,10 @@
 # Fontys S4 Portfolio
 By Rik Jansen
 
+![DALL·E Title page](https://user-images.githubusercontent.com/9715331/213004035-8fbe90fa-ffa9-400e-ad03-636f0d409c61.png)
+
+
+_An attempt to recreate Creative Technology's Canvas 'Cover' through DALL-E_
 
 # Table of Contents
 - [Quick Project Outlines](#quick-project-outlines)
