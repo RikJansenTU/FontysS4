@@ -70,7 +70,7 @@ The fact that we didn't receive a clear assignment from Greenhouse was a little 
 
 During the project, I also got more and more interested in the societal, cultural, and ethical impact generative AI can have, doing a lot of research into the matter, and writing the aforementioned [essay](/Client%20Project/Vision%20Essay.md).
 
-We also did a lot of user research ([all of which is collected in this document](/Client%20Project/Research/Generative%AI%20Research%20Document.pdf)), and I personally headed the user research into how we could best inspire people, details of which can be found in [Creativity Research](/Client%20Project/Research/Creativity%20Research.md). Based on this research, I worked on improving our prototype by having it generate images in different artstyles, as well as attempting to find a way to be able to 'expand' the results and add or replace elements, to make the room more collaborative.
+We also did a lot of user research ([all of which is collected in this document](/Client%20Project/Research/Generative%20AI%20Research%20Document.pdf)), and I personally headed the user research into how we could best inspire people, details of which can be found in [Creativity Research](/Client%20Project/Research/Creativity%20Research.md). Based on this research, I worked on improving our prototype by having it generate images in different artstyles, as well as attempting to find a way to be able to 'expand' the results and add or replace elements, to make the room more collaborative.
 
 ## 3. Interactive User Experience
 
@@ -119,7 +119,7 @@ I created a poster that attempted to not only show a summary of the project, but
 
 **Client Project**
 
-All of our research has been accumulated in [this document](/Client%20Project/Research/Generative%AI%20Research%20Document.pdf).
+All of our research has been accumulated in [this document](/Client%20Project/Research/Generative%20AI%20Research%20Document.pdf).
 
 For personal reflections, see the Personal Growth learning outcome below.
  
