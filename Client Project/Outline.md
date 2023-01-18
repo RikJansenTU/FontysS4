@@ -60,3 +60,5 @@ _Step-by-step process showing the painting of a mask on a generated image, gener
 
 We also did some general work on the protoype, updating the UI and generally making it look more presentable.
 Since our final presentation was coming up, we needed to start setting up the physical room. We set up the UX lab to serve our purposes, and spent much of the final week making sure everyone was functioning for our demo. We had to ensure our microphone was properly placed, working, and didn't pick up any background noise. We also set up our prototype to work with the projectors and show a different image on each wall.
+
+![Prototype behind the scenes gif](Images/App_working.gif)
