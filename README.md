@@ -58,7 +58,7 @@ Based on my views, I try to ensure that the focus of our project is fully on ass
 
 **Personal Project**
 
-While it unfortunately never resulted in a functional prototype, I did do extensive research on the technical challenges of this project. Speech-to-text proved an easier challenge than expected, even though I never worked with it before. However, trying to interpret that text in a meaningful way was much more difficult - I could judge words based on how often they appeared in the English language, but attempting to judge an entire sentence was much harder, and resulted in a lot of reading on text interpretation, mostly involving AI.
+While it unfortunately never resulted in a functional prototype, I did do extensive research on the technical challenges of this project. Speech-to-text proved an easier challenge than expected, even though I never worked with it before. However, trying to interpret that text in a meaningful way was much more difficult - I could judge words based on how often they appeared in the English language, but attempting to judge an entire sentence was much harder, and resulted in a lot of reading on text interpretation, mostly involving AI. The 'algorithm' code I built can be found [here](/Personal%20Project/Algorithm%20Code.md).
 
 **Duo Project**
 
