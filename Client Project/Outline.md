@@ -41,6 +41,8 @@ _The creativity user test_
 
 I personally headed a user test into if, and how exactly, we could positively influence people's creativity with AI art. For me this was an incredibly important question to answer, because the results would largely determine what exact prompts we would use to generate our images. The results were very positive, and gave us a lot to work with: based on the results I plan to implement adjustments in art style, and try to generate a wider array of images closely related to users' initial prompt. For a full research report including results see [Creativity Research](Research/Creativity%20Research.md), and for an evaluation of the results and how exactly we plan to use them to adjust our prototype see [Evaluation](Research/Evaluation.md).
 
+In general, every piece of research, as well as pretty much every element of this project, has been collaborative to a certain degree. While we put people in charge of certain elements, we always discussed our ideas wit the entire group. So when I say I headed the user research, I mean I originally came up with the concept and testing methods, but afterwards those went through many revision based on everyone's feedback. The actual testing was also collaborative, with one person explaining, someone taking notes, and someone controlling the images and sound.
+
 We also set up our very first prototype using React. Luckily, there were a host of publicly available speech-to-text libraries, which meant setting up the basics was very easy. This gave us the opportunity to create a foundation for future improvements, and investigate the specifics of the DALL-E API.
 
 ![Prototype Gif](https://user-images.githubusercontent.com/9715331/208179089-80004b7b-3c19-47ed-8b29-12215d0bf62b.gif)
