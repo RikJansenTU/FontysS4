@@ -6,6 +6,8 @@ I am incredibly happy with how the project turned out: I think we were able to s
 
 I think we were able to show off quite a lot, and I'm very satisfied with the prototype we created. I also think we made very good use of both our initial concepting and brainstorming as well as the research we did to refine what we had built in the final sprint. We obviously had to pick a couple of aspects to focus on, time being limited, but what we ended up with showed off our concept very well.
 
+I'm quite happy with the final demo we were able to show - allowing people to interact with the prototype is always risky, because there is a large chance of unexpected errors, but I think it was the right call. Getting to play around with the AI was one of the best ways to get people excited about our concept, and I think the general reaction was rather positive - we even got nominated for a SPARC award.
+
 If we had more time, we definitely could have kept expanding; I think one of the most interesting things to look into would be ways of making the room more cooperative, something that we found out Greenhouse employees would like based on the interviews we held, but that we didn't have enough time to get into. We also started out with a music angle - this got left by the wayside due to its limited effect on how creatively influenced people felt, but I do think it would be a fun addition that could turn our room more of an experience.
 
 ![Original](https://user-images.githubusercontent.com/9715331/213005059-77ca06e3-258f-4c6a-b290-d6de54eb10f8.png)
