@@ -65,4 +65,4 @@ Since our final presentation was coming up, we needed to start setting up the ph
 
 ![Prototype Demo](https://user-images.githubusercontent.com/9715331/213420369-4d52186b-d2d4-49ce-b6e2-ddf3939893a7.gif)
 
-_A behind the screens demo of our final prototype. The image outlined in red is the 'disruptor' created from antonyms, the green is the original, and the blue is the similar prompt._
+_A behind the screens demo of our final prototype. The image outlined in red is the 'disruptor' created from antonyms, the blue is the original, and the green is the similar prompt._
