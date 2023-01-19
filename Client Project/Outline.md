@@ -64,4 +64,5 @@ We also did some general work on the protoype, updating the UI and generally mak
 Since our final presentation was coming up, we needed to start setting up the physical room. We set up the UX lab to serve our purposes, and spent much of the final week making sure everyone was functioning for our demo. We had to ensure our microphone was properly placed, working, and didn't pick up any background noise. We also set up our prototype to work with the projectors and show a different image on each wall.
 
 ![Prototype Demo](https://user-images.githubusercontent.com/9715331/213420369-4d52186b-d2d4-49ce-b6e2-ddf3939893a7.gif)
+
 _A behind the screens demo of our final prototype. The image outlined in red is the 'disruptor' created from antonyms, the green is the original, and the blue is the similar prompt._
