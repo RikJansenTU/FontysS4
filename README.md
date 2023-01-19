@@ -120,10 +120,13 @@ I created a poster that attempted to not only show a summary of the project, but
 
 **Client Project**
 
+I helped create a first physical prototype of the room out of wood to show our concept to Greenhouse.
+
 All of our research has been accumulated in [this document](/Client%20Project/Research/Generative%20AI%20Research%20Document.pdf).
 
+For our final demo, we put a lot of effort into creating an experience that matched our intended final 'room' as closely as possible, allowing people to interact with our prototype in a natural way. We gave people the opportunity to play around with the room, inputting prompts and seeing the results.
+
 For personal reflections, see the Personal Growth learning outcome below.
- 
 
 ## 6. Personal Growth
 
