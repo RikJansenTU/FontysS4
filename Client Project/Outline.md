@@ -12,13 +12,13 @@ To do this, we want to create a place where employees can go to find inspiration
 Much of our early work was based on casting a wide net around the subject of generative AI. While I knew about it and had been following its progress, none of our group had worked with the technology before, so much of our early reading was into what generative AI can do and how we could potentially use it.
 We also tried to consider the future - where would AI be headed, and how could we prepare for that. In the end, we discovered that AI is very good at generating images, text, and to a lesser extend music and sound, but as of right now there is no AI capable of automatically combining those. This served our purposes well enough however, as we could manually generate and combine the different elements.
 
-![AI Directions]()
+![AI Directions](https://user-images.githubusercontent.com/9715331/213401055-858d6ebe-890e-4c52-8cd8-b5b2c538ce3f.png)
 
 I also researched training our own custom image model; this could potentially be very powerful, because we would have a lot more control over what our output would be, but this proved more difficult than I'd hoped. Model training is definitely more accessible than it used to be, but is still a significant challenge, and unfortunately outside of the scope of this project. Besides, when it comes to inspiring people having a very large range of potential output isn't necessarily a disadvantage.
 
 During all this, we also spent time brainstorming about what we wanted to actually accomplish with the generative AI. Initially we were looking at the assignment from a lot of different angles - directly generating personalised advertising, prototyping, even collaborative art projects - but eventually settled on our current course, trying to empower Greenhouse employees.
 
-![Heart vs Mind]()
+![Heart vs Mind](https://user-images.githubusercontent.com/9715331/213400662-40a6dcf9-1e15-4084-93e0-e409f72e21f2.png)
 
 To help shape our ideas, we performed our first user tests, investigating whether or not people were able to distinguish AI generated and human art, and whether or not it could influence their emotions.
 
