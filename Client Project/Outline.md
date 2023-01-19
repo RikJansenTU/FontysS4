@@ -1,6 +1,8 @@
 # Greenhouse Generative AI Project
 Greenhouse didn't give us a very clear objective, instead only asking us to investigate potential applications. While a bit daunting, this was also very exciting: it meant we had a lot of freedom to give a personal touch to the project. Generative AI has incredible potential, and is currently at the point where it is relatively accessible, which meant we had a lot of options. Initial brainstorming quickly showed that we were all interested in helping out Greenhouse employees somehow, and our project was born from there.
 
+![Greenhouse Logo](https://user-images.githubusercontent.com/9715331/213401452-bc43e9cc-6f18-4bf1-822b-5a6335b1a5eb.png)
+
 ## Project Details
 Our mission goal is to use generative AI to empower Greenhouse employees. Empower is a key word here: to us, it means that we not only inspire employees, but also help them be more creative by positively influencing their mood and state of mind.
 
