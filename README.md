@@ -52,6 +52,7 @@ The A.L.N.D. was an attempt to highlight the way state-of-the-art technology is 
 
 Based on my views, I try to ensure that the focus of our project is fully on assisting and empowering the Greenhouse employees in any way we can, instead of replacing them.
 
+I also added an addendum to the essay on the 'value' of human vs AI generated art.
 
 ## 2. Innovative Concept
 > You discover and define an innovative concept using creative thinking techniques combined with research of technology, context and human.
