@@ -96,7 +96,7 @@ Much of the final week(s) of the project was spent setting up our demo space. We
 
 **Personal Project**
 
-I coded simple prototypes to test out speech-to-text functionality, and a couple of iterations of 'algorithms' to interpret the resulting text.
+I coded simple prototypes to test out speech-to-text functionality, and a couple of iterations of 'algorithms' to interpret the resulting text. The code I built can be found [here](/Personal%20Project/Algorithm%20Code.md).
 
 **Duo Project**
 
