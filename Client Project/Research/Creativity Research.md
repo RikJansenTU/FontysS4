@@ -69,7 +69,10 @@ The effects were much more noticeable when it came to those who were able to exp
 
 These results are exciting, especially considering our target audience. The base concept of the project works, especially when it comes to more creative people – exactly the people we are targeting. 
 
- 
+![WhatsApp Image 2023-01-19 at 11 51 13](https://user-images.githubusercontent.com/9715331/213424319-dc93a67c-59a0-464c-964a-fade587167dc.jpeg)
+![WhatsApp Image 2023-01-19 at 11 51 14](https://user-images.githubusercontent.com/9715331/213424324-6e15adfc-db0a-40e2-9394-e003b85f0fff.jpeg)
+
+_When looking at the difference between the two drawings it's clear that more details have been added to the rocket based on the AI generated image above, as well as having more elements added to the background._
 
 ### Future Steps 
 
